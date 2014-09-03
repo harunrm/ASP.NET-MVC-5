@@ -1,0 +1,12 @@
+D:\test\CircleApp\CircleApp\bin\Debug\CircleApp.exe.config
+D:\test\CircleApp\CircleApp\obj\Debug\CircleApp.csprojResolveAssemblyReference.cache
+D:\test\CircleApp\CircleApp\obj\Debug\CircleApp.Form1.resources
+D:\test\CircleApp\CircleApp\obj\Debug\CircleApp.Properties.Resources.resources
+D:\test\CircleApp\CircleApp\obj\Debug\CircleApp.csproj.GenerateResource.Cache
+D:\test\CircleApp\CircleApp\bin\Debug\CircleApp.exe
+D:\test\CircleApp\CircleApp\bin\Debug\CircleApp.pdb
+D:\test\CircleApp\CircleApp\bin\Debug\CircleLib.dll
+D:\test\CircleApp\CircleApp\bin\Debug\nunit.framework.dll
+D:\test\CircleApp\CircleApp\bin\Debug\nunit.framework.xml
+D:\test\CircleApp\CircleApp\obj\Debug\CircleApp.exe
+D:\test\CircleApp\CircleApp\obj\Debug\CircleApp.pdb
